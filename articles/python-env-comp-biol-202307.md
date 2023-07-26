@@ -6,3 +6,4 @@ topics: ["Python", "数理生物学"]
 published: false
 ---
 
+## Minicondaの導入
